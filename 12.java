@@ -1,6 +1,9 @@
-// Write a Java program which will demonstrate a concept of cohesion
-// and coupling of the various modules in the program.
+// Write a Java program which will demonstrate a
+// concept of Interfaces and packages: In this assignment
+// design and use of customized interfaces and
+// packages for a specific application are expected.
 
+    
 import java.util.Scanner;
 import java.util.Map;
 import java.util.HashMap;
